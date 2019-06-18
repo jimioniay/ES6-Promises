@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ayomide Jimi-Oni",
+        "age": 43,
+        "relationshipStatus": "single",
+        "company": "HackerRanks",
+        "mobileNumber": "2348138460518"
+    },
+    {
+        "id": 2,
+        "name": "Mayowa Jimi-Oni",
+        "age": 25,
+        "relationshipStatus": "Married",
+        "company": "GrandMa",
+        "mobileNumber": "2348138460518"
+    },
+    {
+        "id": 2,
+        "name": "Faith Jimi-Oni",
+        "age": 21,
+        "relationshipStatus": "Married",
+        "company": "Global Accelerex",
+        "mobileNumber": "2348138460518"
+    }
+]
